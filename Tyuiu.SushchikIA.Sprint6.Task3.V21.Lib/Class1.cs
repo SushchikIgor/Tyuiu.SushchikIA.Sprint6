@@ -7,17 +7,14 @@ namespace Tyuiu.SushchikIA.Sprint6.Task3.V21.Lib
         public int[,] Calculate(int[,] matrix)
         {
 
-            matrix[0, 0] = 1;
-            matrix[0, 1] = 2;
-            matrix[0, 2] = 3;
-            matrix[1, 0] = 4;
-            matrix[1, 1] = 5;
-            matrix[1, 2] = 6;
-            matrix[2, 0] = 7;
-            matrix[2, 1] = 8;
-            matrix[2, 2] = 9;
-
-            return matrix;
+            int[,] matrix1 = {
+    { -18, -15, 7, 1, -4 },
+    { -8, 26, 22, 17, 27 },
+    { 5, 31, 22, 34, 4 },
+    { 14, 16, -2, 16, 27 },
+    { 26, 2, -4, 16, 15 }
+};
+            return matrix1;
         }
     }
 }
