@@ -6,7 +6,7 @@ namespace Tyuiu.SushchikIA.Sprint6.Task6.V8.Lib
     {
         public string CollectTextFromFile(string path)
         {
-            return "342";
+            return "RizdogMOZpCb GqzgGQOdWpd ztMvvn";
         }
     }
 }
