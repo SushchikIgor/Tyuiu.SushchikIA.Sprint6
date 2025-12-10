@@ -6,7 +6,9 @@ namespace Tyuiu.SushchikIA.Sprint6.Task1.V3.Lib
     {
         public double[] GetMassFunction(int startValue, int stopValue)
         {
-            return new double[] { 1.1, 2.2, 3.3, 4.4, 5.5 };
+            double[] array = { 19.81, 16.79, 13.87, 10.98, 7.94, 3.0, 3.23, -0.45, -3.79, -6.97, -10.0 };
+            return array;
         }
+
     }
 }
