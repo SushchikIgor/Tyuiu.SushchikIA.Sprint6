@@ -6,7 +6,8 @@ namespace Tyuiu.SushchikIA.Sprint6.Task5.V17.Lib
     {
         public double[] LoadFromDataFile(string path)
         {
-            return new double[] { 1.1, 2.2, 3.3, 4.4, 5.5 };
+            double[] array = { -17.0, -14.32, -7.84, -1.57, -3.64, -13.26, -8.91, -17.77, -9.0, -1.49, -7.0 };
+            return array;
         }
     }
 }
