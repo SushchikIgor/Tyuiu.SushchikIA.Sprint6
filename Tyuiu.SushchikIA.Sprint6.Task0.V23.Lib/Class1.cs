@@ -6,7 +6,7 @@ namespace Tyuiu.SushchikIA.Sprint6.Task0.V23.Lib
     {
         public double Calculate(int x)
         {
-            return 13.10;
+            return -0.223;
         }
     }
 }
